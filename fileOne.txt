@@ -4,3 +4,6 @@ Hi this is the file one. Adding this text to check the diff.
 	Stashing the changes now.
 
 	createting a new branch temp.
+
+	CHecking if the change is seen in master
+
