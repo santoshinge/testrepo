@@ -1,2 +1,2 @@
 Hi this is the file one. Adding this text to check the diff.
-	
+	This is the line to check fetch and merge.
